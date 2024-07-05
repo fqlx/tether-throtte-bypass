@@ -1,5 +1,5 @@
 # tether-throttle-bypass
-Bypass tether throttle on mobile networks such as Verizon, Visible, T-Mobile, etc using an GL iNet router GL-MT3000
+Bypass tether throttling on mobile networks such as Verizon, Visible, T-Mobile, etc using an GL iNet router GL-MT3000
 
 The script modifies the Time to Live (TTL) value for packets in both IPv4 and IPv6 traffic. Changing the TTL value is a common technique used to bypass tethering restrictions imposed by some mobile carriers.
 
